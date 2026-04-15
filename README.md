@@ -2,8 +2,8 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://github.com/yourrepo/Prestige-Client/releases)
-[![LATEST VERSION](https://img.shields.io/badge/VERSION-2026-8A2BE2?style=for-the-badge)](https://github.com/yourrepo/Prestige-Client/releases)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://github.com/obidancode/Prestige-Client/releases/tag/Prestige)
+[![LATEST VERSION](https://img.shields.io/badge/VERSION-2026-8A2BE2?style=for-the-badge)](https://github.com/obidancode/Prestige-Client/releases/tag/Prestige)
 [![STATUS](https://img.shields.io/badge/STATUS-UNDETECTED-00c853?style=for-the-badge)]
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-blue?style=for-the-badge)]
 
