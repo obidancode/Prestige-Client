@@ -49,7 +49,7 @@ Built for users who want a powerful yet discreet client experience.
 
 ---
 
-## 📥 Installation
+## [📥 Installation](https://github.com/obidancode/Prestige-Client/releases/tag/Prestige)
 
 ```bash
 1. Download the latest release
